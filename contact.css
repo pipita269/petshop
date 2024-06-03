@@ -1,0 +1,85 @@
+div{
+  background-color: white;
+  height:490px;
+  margin: 10px;
+  border-radius: 10px;
+  box-shadow: 3px 3px 5px gray;
+  margin-top: 50px;
+}
+
+body{
+  margin: 0px;
+  background-color: #d8e9f0;
+  
+}
+h3{
+  text-align: center;
+  font-family: poppins;
+  padding-top: 15px;
+  font-size: 25px;
+}
+.kipas{
+  font-size: 15px;
+  height: 30px;
+  width: 300px;
+  margin-left: 10px;
+  margin-bottom: 10px;
+  font-family: poppins;
+  padding-left: 5px;
+}
+.kertas{
+  font-size: 15px;
+  height: 30px;
+  width: 300px;
+  margin-left: 10px;
+  margin-bottom: 10px;
+  font-family: poppins;
+  padding-left: 5px;
+}
+.hp{
+  font-size: 15px;
+  margin-left: 10px;
+  margin-bottom: 10px;
+  font-family: poppins;
+  padding-left: 5px;
+  width: 300px;
+}
+.plastik{
+  height: 40px;
+  width: 300px;
+  margin-left: 10px;
+  font-family: poppins;
+  background-color:#10a2b5 ;
+  color:white;
+  font-size: 15px;
+  border-color: #10a2b5;
+  font-weight: bold;
+}
+.lidi{
+  background-color: #10a2b5;
+  font-family: poppins;
+  font-size: 19px;
+  color: white;
+  font-weight:bold;
+}
+ .botol{
+  color:white;
+  background-color:#10a2b5;
+  box-shadow:0px 0px 0px;
+  font-size:15px;
+  text-decoration:none;
+}
+.tas{
+  background-color:#10a2b5;
+  width:100%;
+  height:45px;
+}
+.kaki{
+  background-color:#10a2b5;
+  padding:10px;
+  text-align:center;
+  font-size:15px;
+  margin-left:0px;
+  color:white;
+  font-family:poppins;
+}
